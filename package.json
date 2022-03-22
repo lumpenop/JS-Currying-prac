@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lumpenop/JS-Currying-prac/issues"
   },
-  "homepage": "https://github.com/lumpenop/JS-Currying-prac#readme"
+  "homepage": "https://github.com/lumpenop/JS-Currying-prac#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
